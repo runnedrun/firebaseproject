@@ -4,5 +4,9 @@ body {
 
 #title {
   text-align: center;
-  color: aliceblue
+  margin-top: 50%;
+  margin-bottom: 50%;
+  font-size: 50px;
+  color: white;
+  
 }
